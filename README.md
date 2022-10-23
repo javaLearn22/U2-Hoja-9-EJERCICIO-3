@@ -1,9 +1,10 @@
 # U2-Hoja-9-EJERCICIO-2
-Alimentos saludables programa en JAVA saca calorias, grasas y origen Animal con boolean
+Alimentos saludables programa en JAVA saca calorias, grasas y origen Animal con boolean.
+
 
 
 <b>2.- Diseñar una clase llamada Alimento, con los atributos: 
-nombre (String), grasas (int), hidratos(int), origenAnimal(boolean) y los métodos:
+nombre (String), grasas (int), hidratos(int), origenAnimal(boolean) y los métodos:</b>
 
    • Un constructor que inicializa atributos con los valores pasados como argumentos.
 
