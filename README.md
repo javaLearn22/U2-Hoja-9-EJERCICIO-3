@@ -14,8 +14,7 @@ nombre (String), grasas (int), hidratos(int), origenAnimal(boolean) y los métod
 • Un método llamado calorías que recibe como argumento los gramos de alimento y  
    devuelve las calorías correspondientes, sabiendo que:  
    
-   Calorías=gramos*(grasas*5.3+hidratos*2.1).
+  ``` Calorías=gramos*(grasas*5.3+hidratos*2.1).
    
-   ![2](https://user-images.githubusercontent.com/80227002/197389270-294f652a-74bd-4b0f-a5ac-f47a5dd44ff1.gif).
-   
-   
+![2](https://user-images.githubusercontent.com/80227002/197389341-4f52c383-391c-442c-9dd9-35d676a56264.gif)
+
